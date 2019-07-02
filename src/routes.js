@@ -6,4 +6,4 @@ routes.get(`/`, (req, res) => {
   return res.json({ ola: 'ola' });
 });
 
-module.exports = routes;
+export default routes;
