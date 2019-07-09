@@ -1,3 +1,4 @@
-node_modules
-./.gitignore
-./yarn.lock
+/node_modules
+.gitignore
+yarn.lock
+/config
